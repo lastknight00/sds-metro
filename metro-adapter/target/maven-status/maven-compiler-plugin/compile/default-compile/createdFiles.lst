@@ -1,0 +1,4 @@
+com/sdsmetro/adapter/rest/CitizenServiceRestAdapter.class
+com/sdsmetro/adapter/rest/MetroRestUrl.class
+com/sdsmetro/adapter/rest/LoginServiceRestAdapter.class
+com/sdsmetro/adapter/rest/MetroServiceRestAdapter.class
